@@ -1,0 +1,1008 @@
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Delegation Rewards completeness check:,,,,,,
+,,,,,,,,,,,,asset_usd_value,,anchorage_usd_reward_part,,non_anchorage_usd_reward_part,
+,,,,,,,,,,,Sumif() formula of rows with delegation reward type:,"493,097.72",,0.00,,"493,097.72",
+,,,,,,,,,,,Check that asset_usd_value column = sum of anchorage and non_anchorage_usd_reward_part columns:,0.00,imm,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Operations Organization Name,Operations Account Name,Operations Vault Name,Operations Created Time,Operations End Time,Operations Type,Operations Asset Type,Operations Transaction Hash,Operations Destination Address,Operations Source Addresses,Operations Status,Operations Total Anchorage Reward Part,Operations Total Anchorage USD Reward Part,Operations Total Non Anchorage Reward Part,Operations Total Non Anchorage USD Reward Part,Operations Total USD Value,Operations Total Asset Quantity,Business day
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,124,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,180.42,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,184.04,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,174.19,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,145.24,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,110.66,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,188.81,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,178.79,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,199.12,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,128.69,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,114.27,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,121.78,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,151.06,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,195.68,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,116.92,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,120.01,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,186.79,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,142.2,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,121.7,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,150.94,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,162.25,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,110.89,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,121.9,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,110.44,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,198.13,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,189.35,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,115.4,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,159.21,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,113.95,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,185.09,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,183.66,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,187.21,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,194.42,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,151.82,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,164.41,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,163.65,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,199.82,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,185.32,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,181.82,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,113.32,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,190.03,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,180.51,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,190.99,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,116.53,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,195.72,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,196.48,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,120.97,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,164.59,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,124.76,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,154.76,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,110.34,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,126.57,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,165.21,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,137.77,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,196.02,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,173.94,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,180.47,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,180.53,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,180.79,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,164.12,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,127.71,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,110.22,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,121.8,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,105.39,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,113.76,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,132.08,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,164.93,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,168.91,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,120.03,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,101.57,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,146.1,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,155.33,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,173.94,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,175.44,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,189.78,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,133.91,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,172.78,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,199.24,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,197.99,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,174.31,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,180.6,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,182.73,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,135.32,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,158.36,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,119.89,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,123.71,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,130.53,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,110.84,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,150.31,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,142.05,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,135.41,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,179.67,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,117.35,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,163.94,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,131.65,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,177.3,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,163.62,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,154.46,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,121.15,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,104.61,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,155.28,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,179.06,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,170.86,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,176.86,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,166.41,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,102.67,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,119.73,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,122.48,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,120.31,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,162.56,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,136.99,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,183.05,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,189.23,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,181.35,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,136.17,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,158.2,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,160.39,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,165.62,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,197.69,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,107.05,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,177.99,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,157.4,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,130.2,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,195.64,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,128.02,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,173.86,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,134.58,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,169.88,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,103.37,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,125.47,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,129.53,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,141.62,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,190.55,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,139.22,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,125.99,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,159.73,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,181.3,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,100.81,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,170.11,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,142.32,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,118.85,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,139.75,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,143.44,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,126.9,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,101.07,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,184.79,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,191.76,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,196.42,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,196.21,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,172.9,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,121.99,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,174.48,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,161.05,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,111.55,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,188.81,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,142.69,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,124.77,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,198.48,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,138,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,147.47,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,121.82,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,103.45,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,121.09,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,175.68,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,108.95,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,129.94,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,175.88,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,153.74,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,115.57,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,113.22,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,139.4,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,111.18,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,138.04,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,155.15,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,118.99,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,188.82,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,121.59,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,136.9,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,146.98,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,112.94,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,118.77,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,136.31,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,188.23,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,197.46,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,107.62,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,172.09,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,168.36,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,161.24,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,144.89,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,136.23,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,106.92,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,192.46,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,151.74,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,109.69,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,199.02,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,112.06,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,150.5,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,120.23,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,139.82,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,122.19,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,151.56,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,193.23,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,181.44,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,166.72,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,153.02,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,181.27,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,118.58,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,160.58,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,161.2,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,182.58,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,101.69,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,146.48,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,123.76,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,156.88,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,113.59,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,138.07,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,183.9,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,106.74,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,118.76,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,162.5,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,152.87,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,135.71,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,147.14,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,176.9,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,121.47,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,141.42,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,189.33,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,119.42,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,104.57,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,186.34,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,184.41,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,165.63,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,197.38,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,138.24,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,131.9,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,166.1,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,116.75,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,185.91,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,116.97,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,109.18,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,158.96,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,133.69,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,147.72,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,141.74,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,138.82,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,103.06,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,130.77,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,164.93,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,152.21,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,109.63,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,153.35,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,111.43,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,120.39,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,186.66,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,120.87,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,142.98,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,151.52,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,135.01,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,192.31,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,136.97,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,118.11,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,103.11,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,184.28,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,124,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,188.89,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,143.89,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,163.72,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,103.14,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,104.41,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,165.4,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,182.54,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,146.1,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,192.01,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,196.53,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,128.54,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,161.08,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,110.06,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,103.82,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,153.99,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,185.35,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,188.02,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,185.81,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,150.78,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,132.97,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,164.97,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,158.17,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,114.21,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,105.76,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,148.41,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,125.01,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,199.42,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,100.39,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,132.22,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,194.02,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,176.37,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,150.42,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,186.04,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,105.27,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,139.15,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,184.29,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,159.01,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,105.15,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,154.08,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,125.23,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,155.87,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,164.44,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,127.72,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,181.51,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,190.16,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,180.78,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,134.8,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,199.34,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,105.66,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,132.02,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,147.4,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,122.98,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,142.43,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,158.51,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,152.32,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,165.29,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,198.1,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,109.95,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,150.29,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,135.94,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,151.38,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,159.84,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,102.35,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,168.41,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,119.91,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,183.01,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,190.51,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,192.66,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,127.19,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,163.78,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,129.33,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,162.04,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,178.55,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,105.14,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,188.22,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,166.15,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,150.65,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,145.77,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,153.24,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,137.92,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,111.32,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,149.71,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,121.37,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,152.2,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,170.76,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,143.31,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,180.22,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,111.93,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,118.77,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,134.78,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,165.56,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,131.99,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,123.78,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,188.57,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,138.97,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,179,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,197.8,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,158.87,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,187.34,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,160.51,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,167.86,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,146.71,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,156.45,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,163.44,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,154.46,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,132.45,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,170.53,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,143.43,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,151.75,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,194.39,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,167.18,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,161.16,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,155.26,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,120.31,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,188.7,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,146.62,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,143.22,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,166.19,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,184.22,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,167.24,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,149.72,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,124.36,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,194.84,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,172.34,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,170.45,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,151.08,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,177.34,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,148.95,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,142.8,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,132.34,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,126.69,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,162.25,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,181.73,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,162.97,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,190.54,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,142.82,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,137.42,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,190.27,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,185.01,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,168.31,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,104.96,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,122.59,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,136.37,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,190.05,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,194.78,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,153.39,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,162.6,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,100.23,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,107.34,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,138.92,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,140.02,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,155.83,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,133.09,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,172.89,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,119.37,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,179.86,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,128.12,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,172.6,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,159.32,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,147.73,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,130.98,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,176.33,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,152.34,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,150.4,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,164.58,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,115.34,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,156.91,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,195.83,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,136.8,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,195.55,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,176.61,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,120.76,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,173.08,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,168.88,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,158.1,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,103.31,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,196.06,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,130.55,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,102.94,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,180.84,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,114.63,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,162.77,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,130.89,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,102.22,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,191.23,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,145.19,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,141,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,166.39,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,103.7,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,187.26,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,170.58,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,179.19,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,123.06,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,177.58,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,183.4,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,199.26,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,131.15,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,188.84,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,136.13,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,159.57,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,176.03,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,115.21,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,199.16,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,172.56,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,147.03,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,160.52,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,159.19,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,173.24,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,175.25,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,193.68,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,123,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,107.49,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,144.67,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,106.1,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,197.62,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,130.8,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,140.35,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,176.07,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,188.03,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,108.16,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,179.43,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,104.78,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,192.09,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,128.16,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,114.18,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,106.77,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,100.09,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,138.84,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,104.97,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,111.4,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,164.35,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,104.42,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,160.19,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,196.73,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,102.51,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,113.75,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,148.36,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,118.89,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,171.05,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,125.53,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,106.46,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,193.09,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,145.75,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,112,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,144.95,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,199.96,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,193.64,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,195.86,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,145.26,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,159.1,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,136.55,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,108.78,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,102.21,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,139.71,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,195.68,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,152.98,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,147.27,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,100.36,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,181.27,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,145.99,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,132.91,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,163.43,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,133.11,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,105.87,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,197.17,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,166.18,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,182.94,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,118.36,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,187.44,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,110.11,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,158.3,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,152.73,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,195.66,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,129.71,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,178.56,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,113.33,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,147.36,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,125.97,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,187.29,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,163.21,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,142.03,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,132.25,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,105.42,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,141.15,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,188.18,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,101.68,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,118.54,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,111.5,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,166,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,157.86,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,148.3,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,110.56,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,180.24,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,155.4,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,175.55,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,180.49,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,128.82,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,171.96,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,158.23,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,129.55,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,126.5,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,165.36,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,125.47,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,157.17,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,139.33,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,100.86,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,154.99,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,126.61,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,157.59,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,140.89,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,162.54,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,137.06,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,163.42,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,125.9,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,173.85,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,153.96,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,139.13,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,113.13,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,132.4,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,122.47,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,139.71,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,159.9,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,193.09,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,130.68,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,115.02,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,154.71,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,109.66,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,138.5,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,168.77,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,119.36,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,153.57,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,158.63,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,106.54,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,108.72,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,157,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,138.66,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,109.99,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,127.93,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,141.8,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,183.44,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,190.52,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,178.65,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,164.84,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,117.58,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,168.87,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,165.32,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,100.85,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,152.44,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,151.66,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,168.32,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,193.68,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,148.91,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,102.48,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,158.92,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,167.59,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,160.93,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,198.95,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,174.51,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,105.04,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,147.63,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,150.26,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,183.8,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,148.04,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,154.36,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,111.08,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,162.87,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,181.95,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,106.3,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,143.55,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,172.04,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,181.18,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,132.71,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,176.49,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,104.88,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,143.52,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,119.92,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,153.32,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,169.82,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,194.8,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,131.22,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,102.81,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,166.09,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,121.8,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,171.32,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,187.73,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,188.31,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,156.04,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,100.42,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,171.4,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,168.9,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,148.51,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,136.84,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,144.44,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,118.2,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,152.5,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,193.27,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,156.47,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,186.46,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,111.5,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,101.9,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,172.08,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,197.33,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,159.89,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,133.71,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,185.16,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,167.96,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,128.52,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,199.93,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,185.33,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,136.23,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,120.26,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,194.1,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,154.74,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,146.33,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,121.42,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,195.93,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,198.26,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,134.99,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,163.5,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,132.11,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,188.25,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,186.19,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,134.76,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,189.72,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,172.12,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,138.25,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,172.88,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,152.38,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,161.34,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,128.38,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,195.68,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,184.94,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,169.5,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,119.64,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,155.53,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,138.66,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,125.07,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,196.81,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,157.09,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,190.25,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,142.3,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,114.92,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,187.06,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,163.73,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,118.09,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,151.62,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,142.39,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,193.14,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,195.29,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,170,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,109.15,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,187.33,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,140.93,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,147.96,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,100.07,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,118.98,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,121.43,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,126.39,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,177.83,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,189.99,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,114.13,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,137.86,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,151.1,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,100.25,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,190.3,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,140.99,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,171.24,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,131.11,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,158.19,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,111.78,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,115.37,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,105.75,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,180.54,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,143.51,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,173.79,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,175.78,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,192.01,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,144.41,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,160.88,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,181.57,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,156.69,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,187.98,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,177.49,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,163.66,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,126.52,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,177.72,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,192.99,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,169.9,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,145.63,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,110.24,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,116.69,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,112.48,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,151.9,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,154.13,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,159.37,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,115.22,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,164.35,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,135.51,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,101.93,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,177.14,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,175.71,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,121.93,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,107.07,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,199.49,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,186.28,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,113.66,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,143.44,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,105.29,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,135.79,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,104.81,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,161.03,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,141.31,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,133.76,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,103.88,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,151.58,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,149,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,196.84,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,180.48,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,128.45,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,124,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,193.12,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,141.07,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,193.23,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,113.7,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,138.01,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,187.62,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,115.04,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,131.32,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,157.14,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,157.46,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,184.85,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,126.61,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,103.84,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,198.53,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,126.65,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,111.88,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,110.68,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,189.24,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,113.45,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,173.32,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,175.48,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,105.33,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,189.19,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,145.41,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,148.41,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,149.43,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,185.36,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,198.86,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,121.33,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,146.12,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,123.5,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,150.23,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,132.28,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,116.78,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,156.91,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,122.44,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,176.93,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,129.62,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,152.8,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,192.86,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,180.64,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,157.89,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,185.6,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,165.82,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,179.93,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,141.4,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,186.74,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,127.24,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,142.35,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,128.8,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,113.71,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,188.35,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,101.08,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,119.31,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,128.03,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,191.57,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,184.91,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,124.01,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,166,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,146.06,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,113.47,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,157.39,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,170.93,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,199.06,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,196.46,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,108.65,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,156.4,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,114.43,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,188.95,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,107.1,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,129.89,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,136.63,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,191.08,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,102.57,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,160.08,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,114.03,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,133.87,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,167.07,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,103.29,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,130.49,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,107.78,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,156.8,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,137.97,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,189.71,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,157.42,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,134.13,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,132.7,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,105.67,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,193.7,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,170.11,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,102.37,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,109.55,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,109.65,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,139.99,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,144.68,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,178.74,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,139.75,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,141.14,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,147.01,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,137.76,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,109.52,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,113.24,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,174.14,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,183.73,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,132.85,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,154.66,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,144.83,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,102.58,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,186.92,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,123.07,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,144.13,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,132.26,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,169.63,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,120.38,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,146.23,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,124.47,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,178.16,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,168.36,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,176.07,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,111.73,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,133.09,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,198.35,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,171.02,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,142.96,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,127.63,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,112.46,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,129.23,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,125.7,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,142.96,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,138.82,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,129.13,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,116.08,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,139.55,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,132.86,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,142.47,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,149.46,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,190.16,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,170.74,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,123.8,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,183.72,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,103.59,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,107.85,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,186.48,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,110.82,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,157.84,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,116.47,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,168.31,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,196.49,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,116.92,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,163.82,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,189.74,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,195.18,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,108.09,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,140.67,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,134.18,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,119.36,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,100.97,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,150.59,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,117.08,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,112.06,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,192.61,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,145.01,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,151.72,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,104.24,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,186.12,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,188.45,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,104.42,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,145.97,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,164.52,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,199.37,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,136.06,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,162.05,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,107.04,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,177.63,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,116.14,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,185.61,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,145.74,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,116.42,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,132.15,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,102.96,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,172.67,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,196.82,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,114.21,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,105.51,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,117.14,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,149.55,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,166.46,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,151.77,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ROSE,Transaction HASH,Destination Address,Source Address,Operation Status,109.82,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,101.6,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,168.32,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,132.8,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,124.82,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,FLOW,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,140.04,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,OSMO,Transaction HASH,Destination Address,Source Address,Operation Status,185.38,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,133.58,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,180.09,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,197.57,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,148.98,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,193.21,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ETH,Transaction HASH,Destination Address,Source Address,Operation Status,137.74,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,170.91,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,CELO,Transaction HASH,Destination Address,Source Address,Operation Status,137.51,0,0,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Staking Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,183.13,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,177.69,0,0,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Staking Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,131.32,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,APT,Transaction HASH,Destination Address,Source Address,Operation Status,115.1,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,SOL,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,101.36,0,0,0,2023-10-11
+Firetronics,FT Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,AXL,Transaction HASH,Destination Address,Source Address,Operation Status,138.11,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,SEI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,151.08,0,0,0,2023-10-11
+Moon Enterprises,ME Venture Fund,Vault Name,Create Time,End Time,Delegation Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,109.28,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Staking Reward,HASH,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,104.39,0,0,0,2023-10-11
+Moon Enterprises,ME Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,111.63,0,0,0,0,0,2023-10-11
+Electric Sheep,ES Capital Fund,Vault Name,Create Time,End Time,Delegation Reward,SUI,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,109.11,0,0,0,2023-10-11
+Electric Sheep,ES Venture Fund,Vault Name,Create Time,End Time,Staking Reward,ATOM,Transaction HASH,Destination Address,Source Address,Operation Status,141.83,0,0,0,0,0,2023-10-11
+Firetronics,FT Venture Fund,Vault Name,Create Time,End Time,Staking Reward,EVMOS,Transaction HASH,Destination Address,Source Address,Operation Status,0,0,101.59,0,0,0,2023-10-11

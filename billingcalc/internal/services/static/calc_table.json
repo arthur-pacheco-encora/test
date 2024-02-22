@@ -1,0 +1,138 @@
+[
+    {
+      "asset": "CELO",
+      "validator": "anchorage",
+      "operations": ["delegation"],
+      "on_chain": false,
+      "claimable": false,
+      "active": true
+    },
+    {
+      "asset": "CELO",
+      "validator": "non_anchorage",
+      "operations": ["delegation"],
+      "on_chain": false,
+      "claimable": false,
+      "active": true
+    },
+    {
+      "asset": "FLOW",
+      "validator": "anchorage",
+      "operations": ["delegation"],
+      "on_chain": true,
+      "claimable": false,
+      "active": true
+    },
+    {
+      "asset": "FLOW",
+      "validator": "non_anchorage",
+      "operations": ["delegation", "staking"],
+      "on_chain": false,
+      "claimable": false,
+      "active": true
+    },
+    {
+      "asset": "ROSE",
+      "validator": "anchorage",
+      "operations": ["delegation"],
+      "on_chain": true,
+      "claimable": false,
+      "active": true
+    },
+    {
+      "asset": "ROSE",
+      "validator": "non_anchorage",
+      "operations": ["delegation", "staking"],
+      "on_chain": false,
+      "claimable": false,
+      "active": true
+    },
+    {
+      "asset": "APT",
+      "validator": "anchorage",
+      "operations": ["staking"],
+      "on_chain": true,
+      "claimable": false,
+      "active": true
+    },
+    {
+      "asset": "APT",
+      "validator": "non_anchorage",
+      "operations": ["staking"],
+      "on_chain": false,
+      "claimable": false,
+      "active": true
+    },
+    {
+      "asset": "SOL",
+      "validator": "non_anchorage",
+      "operations": ["delegation"],
+      "on_chain": false,
+      "claimable": false,
+      "active": true
+    },
+    {
+      "asset": "OSMO",
+      "validator": "non_anchorage",
+      "operations": ["delegation"],
+      "on_chain": false,
+      "claimable": true,
+      "active": true
+    },
+    {
+      "asset": "HASH",
+      "validator": "non_anchorage",
+      "operations": ["delegation"],
+      "on_chain": false,
+      "claimable": true,
+      "active": true
+    },
+    {
+      "asset": "ATOM",
+      "validator": "non_anchorage",
+      "operations": ["delegation"],
+      "on_chain": false,
+      "claimable": true,
+      "active": true
+    },
+    {
+      "asset": "AXL",
+      "validator": "non_anchorage",
+      "operations": ["delegation"],
+      "on_chain": false,
+      "claimable": true,
+      "active": true
+    },
+    {
+      "asset": "EVMOS",
+      "validator": "non_anchorage",
+      "operations": ["delegation"],
+      "on_chain": false,
+      "claimable": true,
+      "active": true
+    },
+    {
+      "asset": "SEI",
+      "validator": "non_anchorage",
+      "operations": ["delegation"],
+      "on_chain": false,
+      "claimable": true,
+      "active": true
+    },
+    {
+      "asset": "SUI",
+      "validator": "non_anchorage",
+      "operations": ["delegation"],
+      "on_chain": false,
+      "claimable": true,
+      "active": true
+    },
+    {
+      "asset": "ETH",
+      "validator": "anchorage",
+      "operations": ["delegation", "staking"],
+      "on_chain": false,
+      "claimable": true,
+      "active": true
+    }
+]

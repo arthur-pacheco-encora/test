@@ -1,0 +1,98 @@
+{
+    "sha1": "81bec2f83ddf9e57d5bfd977f4bf65a50e097c44",
+    "data": {
+        "parent_sha1": null,
+        "legal_names": [
+            {
+                "name": "Venture Fund",
+                "terms": [
+                    {
+                        "assets": ["CELO"],
+                        "fees": {
+                            "anchorage": 5,
+                            "non_anchorage": 3
+                        }
+                    },
+                    {
+                        "assets": ["FLOW"],
+                        "fees": {
+                            "anchorage": 8,
+                            "non_anchorage": 3
+                        }
+                    },
+                    {
+                        "assets": ["ROSE"],
+                        "fees": {
+                            "anchorage": 12,
+                            "non_anchorage": 8
+                        }
+                    },
+                    {
+                        "assets": ["SOL"],
+                        "fees": {
+                            "non_anchorage": 3
+                        }
+                    },
+                    {
+                        "assets": ["APT"],
+                        "fees": {
+                            "anchorage": 12
+                        }
+                    },
+                    {
+                        "assets": ["default"],
+                        "fees": {
+                            "anchorage": 5,
+                            "non_anchorage": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Capital Fund",
+                "terms": [
+                    {
+                        "assets": ["CELO"],
+                        "fees": {
+                                "anchorage": 5,
+                                "non_anchorage": 3
+                        }
+                    },
+                    {
+                        "assets": ["FLOW"],
+                        "fees": {
+                            "anchorage": 8,
+                            "non_anchorage": 3
+                        }
+                    },
+                    {
+                        "assets": ["ROSE"],
+                        "fees": {
+                            "anchorage": 12,
+                            "non_anchorage": 8
+                        }
+                    },
+                    {
+                        "assets": ["SOL"],
+                        "fees": {
+                            "non_anchorage": 3
+                        }
+                    },
+                    {
+                        "assets": ["APT"],
+                        "fees": {
+                            "anchorage": 12
+                        }
+                    },
+                    {
+                        "assets": ["default"],
+                        "fees": {
+                            "anchorage": 5,
+                            "non_anchorage": 3
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

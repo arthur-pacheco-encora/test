@@ -1,0 +1,8 @@
+Delegation Statuses Account Name,Delegation Statuses Active Delegated Quantity,Delegation Statuses Active Delegated Value USD,Delegation Statuses Anchorage Entity,Delegation Statuses Asset Sub ID,Delegation Statuses Asset Type,Delegation Statuses Asset Unique ID,Delegation Statuses Date Date,Delegation Statuses Is Anchorage Validator (Yes / No),Delegation Statuses Last Updated Date,Delegation Statuses Org ID,Delegation Statuses Org Name,Delegation Statuses Pending Delegated Quantity,Delegation Statuses Pending Delegated Value USD,Delegation Statuses System Account ID,Delegation Statuses Unbonded Quantity,Delegation Statuses Unbonded Value USD,Delegation Statuses Unit Price USD,Delegation Statuses Validator Address,Delegation Statuses Validator ID,Vault Vault Name,Delegation Statuses Vault Sub ID,Delegation Statuses Vault Unique ID,Delegation Statuses Wallet Unique ID,Cosmos Validators Rates Rate,Anchorage?,Anchorage address:,0x35aE10F412503aBcf9275133613E8df7f56E72Be
+Test Alpha Account,,1459200.01,,,HASH,,2023-06-29,,,,,,,,,,,,,,,,,100.00%,,,
+Test Alpha Account,,1502100.01,,,HASH,,2023-06-26,,,,,,,,,,,,,,,,,100.00%,,,
+Test Alpha Account,,1542000.01,,,HASH,,2023-06-21,,,,,,,,,,,,,,,,,100.00%,,,
+Test Alpha Account,,1463700.01,,,HASH,,2023-06-19,,,,,,,,,,,,,,,,,100.00%,,,
+Test Alpha Account,,1398300.01,,,HASH,,2023-06-13,,,,,,,,,,,,,,,,,100.00%,,,
+Test Alpha Account,,1660500.01,,,HASH,,2023-06-06,,,,,,,,,,,,,,,,,100.00%,,,
+Test Alpha Account,,1725300.01,,,OSMO,,2023-06-29,,,,,,,,,,,,,,,,,100.00%,,,

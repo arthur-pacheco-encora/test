@@ -1,0 +1,58 @@
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Asset ID lookup,,,Org ID from RDB,Account ID from RDB,MSA ID & Asset ID,Anchorage Entity,Anchorage Entity ID,Org Name,Entity Legal Name,Netsuite Customer Internal ID,Billing Terms,"Agreement Term, renewal/termination conditions - RH 8/26",Status,Preparer,Prepared,Reviewer,Reviewed?,Reviewer sign off for June 2021 updates,TEMP - needs June 2021 review,Notes,Email Contact,Mailing address,Asset Type,Agreement Countersignature Date or Effective Date,Original Agreement Date,Max Delay of Fee Date,Onboarding Date,Fee Accrual Date,Minimum Charge (Customer Level),1st Tier Floor,1st Tier Rate,2nd Tier Floor,2nd Tier Rate,3rd Tier Floor,3rd Tier Rate,4th Tier Floor,4th Tier Rate,5th Tier Floor,5th Tier Rate,6th Tier Floor,6th Tier Rate,7th Tier Floor,7th Tier Rate,8th Tier Floor,8th Tier Rate,9th Tier Floor,9th Tier Rate,10th Tier Floor,10th Tier Rate,Artificial Max Floor (used for if formulas),Artificial Max Tier Rate (used for if formulas),XTZ Fee % - third party validator,Celo Fee % - Anchorage validator,Celo Fee % - third party validator,Celo credit against custody fee terms,FLOW Fee % - Anchorage validator,FLOW Fee % - third party validator,OSMO Fee % - third party validator,OSMO Staking Fee % - 100% commission validator (fee on staked balance),ROSE Fee % - Anchorage validator,ROSE Fee % - third party validator,ETH Fee % - Anchorage validator,AXL Staking Fee % - 100% commission validator (fee on staked balance),AXL Fee % - third party validator,APT Fee % - third party validator,ATOM Staking Fee % - 100% commission validator (fee on staked balance),ATOM Fee % - third party validator,HASH Staking Fee % - 100% commission validator (fee on staked balance),HASH Fee % - third party validator,EVMOS Staking Fee % - 100% commission validator (fee on staked balance),EVMOS Fee % - third party validator,APT Fee % - Anchorage validator,SOL Fee % - third party validator,SOL Staking Fee % - 100% commission validator (fee on staked balance),SUI Fee % - Anchorage validator,SUI Fee % - third party validator,SUI Staking Fee % - 100% commission validator (fee on staked balance),Staking Notes,Brokerage Client? (yes/no),Brokerage Fee,Calculation Notes,Cosmetic Notes,Notes (from prior to 1/1/2021),Reviewer Notes (from prior to 1/1/2021),Asset ID,MSA ID
+BTC/ETH,0,,,,,Anchorage Digital Bank,15,Electric Sheep,ES Capital Fund,12890,Net 15,"1-year, auto-renewing, 60 days written notice required to terminate",Active,"Julie
+MG (Amendment 2)","Yes
+7/21/2022","Kennedy
+CK (Amendment 2)","Yes
+8/1/2022",,,"Fees calculated using the incremental rate at each tier, not using one rate for the whole AUC balance",,,"ALL except BTC/ETH, NFTs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,3%,10%,10%,Anchorage,8%,3%,3%,1%,12%,8%,10%,1.00%,3.00%,7.00%,1.00%,3.00%,1.00%,3.00%,1.00%,3.00%,12%,3%,1%,6%,3%,1%,,yes,Standard; varies trade by trade stated on each order,,,,,,10
+BTC,1,,,,,Anchorage Digital Bank,15,Electric Sheep,ES Venture Fund,36189,Net 15,"1-year, auto-renewing, 60 days written notice required to terminate",Active,"Julie
+MG (Amendment 2)","Yes
+7/21/2022","Kennedy
+CK (Amendment 2)","Yes
+8/1/2022",,,"Fees calculated using the incremental rate at each tier, not using one rate for the whole AUC balance",,,BTC/ETH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3%,10%,10%,Anchorage,8%,3%,3%,1%,12%,8%,10%,1.00%,3.00%,7.00%,1.00%,3.00%,1.00%,3.00%,1.00%,3.00%,12%,3%,1%,6%,3%,1%,,yes,Standard; varies trade by trade stated on each order,,,,,,0
+ETH,2,,,,,Anchorage Singapore,33,Firetronics,FT Capital Fund,12567,Net 15,"1-year, auto-renewing, 60 days written notice required to terminate",Active,"Julie
+MG (Amendment 2)","Yes
+7/21/2022","Kennedy
+CK (Amendment 2)","Yes
+8/1/2022",,,"Fees calculated using the incremental rate at each tier, not using one rate for the whole AUC balance",,,"ALL except BTC/ETH, NFTs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,1%,10%,1%,Anchorage,8%,1%,1%,1%,12%,1%,10%,1.00%,1.00%,1.00%,1.00%,1.00%,1.00%,1.00%,1.00%,1.00%,12%,3%,1%,6%,3%,1%,,Yes,Standard; varies trade by trade stated on each order,,,,,,10
+DYDX,3,,,,,Anchorage Sinagapore,33,Firetronics,FT Venture Fund,14756,Net 15,"1-year, auto-renewing, 60 days written notice required to terminate",Active,"Julie
+MG (Amendment 2)","Yes
+7/21/2022","Kennedy
+CK (Amendment 2)","Yes
+8/1/2022",,,"Fees calculated using the incremental rate at each tier, not using one rate for the whole AUC balance",,,BTC/ETH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1%,10%,1%,Anchorage,8%,1%,1%,1%,12%,1%,10%,1.00%,1.00%,1.00%,1.00%,1.00%,1.00%,1.00%,1.00%,1.00%,12%,3%,1%,6%,3%,1%,,Yes,Standard; varies trade by trade stated on each order,,,,,,0
+ROSE,4,,,,,Anchorage Digital Bank,15,Moon Enterprises,ME Capital Fund,23451,Net 15,"1-year, auto-renewing, 60 days written notice required to terminate",Active,"Julie
+MG (Amendment 2)","Yes
+7/21/2022","Kennedy
+CK (Amendment 2)","Yes
+8/1/2022",,,"Fees calculated using the incremental rate at each tier, not using one rate for the whole AUC balance",,,"ALL except BTC/ETH, NFTs",,,,,,,,,,,,,,,,,,,,,,,,,,,,,3%,6%,6%,Any,8%,3%,3%,1%,12%,8%,10%,1.00%,3.00%,7.00%,1.00%,3.00%,1.00%,3.00%,1.00%,3.00%,12%,3%,1%,6%,3%,1%,,No,NA,,,,,,10
+FIL,5,,,,,Anchorage Singapore,33,Moon Enterprises,ME Venture Fund,41962,Net 15,"1-year, auto-renewing, 60 days written notice required to terminate",Active,"Julie
+MG (Amendment 2)","Yes
+7/21/2022","Kennedy
+CK (Amendment 2)","Yes
+8/1/2022",,,"Fees calculated using the incremental rate at each tier, not using one rate for the whole AUC balance",,,BTC/ETH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3%,6%,6%,Any,8%,3%,3%,1%,12%,8%,10%,1.00%,3.00%,7.00%,1.00%,3.00%,1.00%,3.00%,1.00%,3.00%,12%,3%,1%,6%,3%,1%,,No,NA,,,,,,0
+cUSD,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BTRST,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FLY,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NFT token,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WPUNKS,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BAYC,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MAYC,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+USDC,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+All the rest (including ALL) >,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CloneX,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MOONBIRD,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NOUN,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+LAND,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WOW,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+vvPDT,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DIDA,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AVA,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OP,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BTC/ETH/wstETH,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+QF,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OTHR,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SOL,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+HASH,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BTC/ETH/SOL,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SUI,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
